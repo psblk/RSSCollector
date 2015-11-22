@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Pavel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\Pavel\AndroidStudioProjects\RSSCollector\app\build\intermediates\pre-dexed\release\support-annotations-23.1.0-0a9d940d6991ebe7f83625d00205fa72a932b3c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pavel\AndroidStudioProjects\RSSCollector\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\Pavel\AndroidStudioProjects\RSSCollector\app\build\intermediates\pre-dexed\release\classes-248ca5c0f4587435b457535358cf9a40cebbe130.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pavel\AndroidStudioProjects\RSSCollector\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\Pavel\AndroidStudioProjects\RSSCollector\app\build\intermediates\pre-dexed\release\classes-1c16f8c09706cc4d275a890746418ffd2fa43a39.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pavel\AndroidStudioProjects\RSSCollector\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\Pavel\AndroidStudioProjects\RSSCollector\app\build\intermediates\pre-dexed\release\internal_impl-23.1.0-90ff73254854753ac1217b13e540d08476ca0b3d.jar" />
+    </item>
+
+</items>

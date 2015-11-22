@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RSS Collector</string>
+    <string name="main">Hlavní menu</string>
+
+    <string name="news">Novinky</string>
+    <string name="saved">Uložené články</string>
+    <string name="channels">Kanály</string>
+
+    <string name="articlenew">Článek</string>
+    <string name="articlesaved">Článek</string>
+    <string name="add">Přidat kanál</string>
+    <string name="edit">Upravit kanál</string>
+
+    <string name="url">Odkaz</string>
+    <string name="name">Název</string>
+
+    <string name="save">Uložit</string>
+    <string name="delete">Odstranit</string>
+
+    <string name="headline">Nadpis</string>
+    <string name="content">Lorem ipsum dolor sit amet consectetuer Lorem cursus orci egestas a. Eget accumsan sapien fringilla Suspendisse Vivamus condimentum Vestibulum Aenean ac orci. Suscipit et vitae elit quam aliquet Nulla aliquet sodales consequat Sed. Nec leo semper at Morbi enim Proin Pellentesque nibh euismod Vestibulum. Sed in Aliquam quis tortor metus cursus mattis fringilla convallis orci. Nunc.
+In In felis pretium wisi Praesent Aenean convallis consequat gravida Duis. Lorem In euismod commodo consectetuer Nam morbi pede Phasellus Nam sapien. Lacus consectetuer Praesent dui Integer ligula adipiscing ac ridiculus nulla Vestibulum. Sapien Phasellus lobortis hendrerit id Aliquam Quisque commodo vel Vestibulum penatibus. Tincidunt orci laoreet pharetra nulla Aliquam Phasellus pellentesque nec eleifend gravida. Ut Quisque Integer id.</string>
+
+    <string name="saveA">Uložit článek</string>
+    <string name="deleteA">Odstranit článek</string>
+
+</resources>
